@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Franz Kafka",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kafka1906_cropped.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Kathy Acker",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Kathy_Acker.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Haruki Murakami",
+        "image": "http://2.bp.blogspot.com/-wWv2bbCimxI/VH5_c4EYTGI/AAAAAAAAHUA/sXz1-f5kZKo/s1600/murakami%2Bharuki%2Bin%2Bsweater.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Virginia Woolf",
+        "image": "https://rhystranter.files.wordpress.com/2017/09/virginia-woolf-credit-mondadori-portfolio-via-getty-images.png?w=307&h=310",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Samuel Beckett",
+        "image": "https://static01.nyt.com/images/2011/10/30/books/review/DONOGHUE/DONOGHUE-popup.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Emily Dickinson",
+        "image": "https://s24193.pcdn.co/wp-content/uploads/2017/02/Emily-Dickinson-famous-women-in-history-entity.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "David Foster Wallace",
+        "image": "https://i.pinimg.com/736x/94/52/b3/9452b3b903ff14f3d2ddb9ae473835c9--david-foster-wallace-magazine-articles.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Flannery O'Connor",
+        "image": "https://images.gr-assets.com/authors/1469878767p5/22694.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Edgar Allan Poe",
+        "image": "https://cdn.britannica.com/s:300x300/52/76652-004-60D7B595.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Margaret Atwood",
+        "image": "http://kora.matrix.msu.edu/files/91/557/5B-22D-14-123-Atwood.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "James Joyce",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg/230px-James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Sylvia Plath",
+        "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNjU4NzU2MTEw/sylvia-plath-9442550-1-402.jpg",
+        "count": 0
+    }
+]
