@@ -7,8 +7,8 @@
     },
     {
         "id": 2,
-        "name": "Kathy Acker",
-        "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Kathy_Acker.jpg",
+        "name": "Leo Tolstoy",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tolstoy_portrait_tolstoy.ru.jpg",
         "count": 0
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "name": "Virginia Woolf",
-        "image": "https://rhystranter.files.wordpress.com/2017/09/virginia-woolf-credit-mondadori-portfolio-via-getty-images.png?w=307&h=310",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/220px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
         "count": 0
     },
     {
@@ -31,20 +31,20 @@
     },
     {
         "id": 6,
-        "name": "Emily Dickinson",
-        "image": "https://s24193.pcdn.co/wp-content/uploads/2017/02/Emily-Dickinson-famous-women-in-history-entity.jpg",
+        "name": "Zadie Smith",
+        "image": "https://www.interviewmagazine.com/wp-content/uploads/2012/08/Zadie-Smith.png",
         "count": 0
     },
     {
         "id": 7,
         "name": "David Foster Wallace",
-        "image": "https://i.pinimg.com/736x/94/52/b3/9452b3b903ff14f3d2ddb9ae473835c9--david-foster-wallace-magazine-articles.jpg",
+        "image": "https://villagevoice.freetls.fastly.net/wp-content/uploads/2008/09/2548405.0.jpg",
         "count": 0
     },
     {
         "id": 8,
-        "name": "Flannery O'Connor",
-        "image": "https://images.gr-assets.com/authors/1469878767p5/22694.jpg",
+        "name": "Cormac McCarthy",
+        "image": "https://cannonballread.com/wp-content/uploads/2018/08/cormacmcarthy-234x300.jpg",
         "count": 0
     },
     {
@@ -56,7 +56,7 @@
     {
         "id": 10,
         "name": "Margaret Atwood",
-        "image": "http://kora.matrix.msu.edu/files/91/557/5B-22D-14-123-Atwood.jpg",
+        "image": "https://static1.squarespace.com/static/5a453a8b2278e7f4f112f2ab/t/5a5d271c24a694da4adba08f/1516054325312/ba5fac68605c1072328bbe0fc52e2879--margaret-atwood-new-books.jpg",
         "count": 0
     },
     {
@@ -68,7 +68,7 @@
     {
         "id": 12,
         "name": "Sylvia Plath",
-        "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNjU4NzU2MTEw/sylvia-plath-9442550-1-402.jpg",
+        "image": "https://cdn.britannica.com/s:300x300/67/19067-004-69E99E7A.jpg",
         "count": 0
     }
 ]
