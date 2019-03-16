@@ -13,7 +13,7 @@ HTML, raw CSS, JavaScript, React.
 
 ### Use
 
-This is a simple memory game. Click through the author photos, but don't repeat yourself! Can you make it through all twelve?
+This is a simple memory game. Click through the photos, but don't repeat yourself! Can you make it through all twelve?
 
 ![Homepage](https://raw.githubusercontent.com/JonathanDavis22/Writer-Clicky-Game/master/screenshot/Clicky-game.jpg "Homepage")
 
